@@ -1,0 +1,12 @@
+
+
+
+    CT01 – Realizar login (desktop).
+    Pré condição: Estar no site https://www.amazon.com.
+    Steps: 	    1- Clicar no botão “Olá, faça seu login. Contas e Listas”;
+            	2- Preencher o campo e-mail com um e-mail válido;
+                3- Clicar no botão “continuar”;
+                4- Preencher o campo senha com uma senha válida;
+                5- Clicar no botão “Fazer login”.
+                6- Clicar no botão “pular”.
+                Resultado esperado: Acessar a home da Amazon.

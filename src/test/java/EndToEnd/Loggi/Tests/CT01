@@ -1,0 +1,13 @@
+CT01            Rastrear encomenda com código válido.
+Pré condição:   Estar na página da Loggi.
+R.E:            Deve ser possível visualizar o recebedor e data de entrega.
+Steps:
+                1: Clicar no botão "Quero rastrear um pacote";
+                2: Clicar no campo "Código de rastreamento"(massa de dados);
+                3: Digitar o código de rastreio;
+                4: Clicar no botão "Acompanhar pedido".
+                5: Verificar status do pacote;
+                6: Clicar no campo "CPF"(massa de dados);
+                7: Digitar o CPF.
+                8: Clicar no botão azul com uma seta pra direita;
+                9: Verificar recebedor e data de entrega.

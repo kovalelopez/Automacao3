@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automacao2"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5,695">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_desktop_add_item"
+                time="5,695"
+                classname="EndToEnd.Amazon.Desktoptest.Runner">
+            </testcase>
+</testsuite>

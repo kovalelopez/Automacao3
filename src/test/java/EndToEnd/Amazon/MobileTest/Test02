@@ -1,0 +1,17 @@
+
+
+
+
+CT02 – Realizar login (Mobile).
+
+Pré condição:        Estar no site https://www.amazon.com.br
+
+Steps: 	             1- Clicar no botão "Menu" no canto superior esquerdo da home;
+            	     2- Clicar no botão “Faça seu login”;
+	                 3- Clicar no botão “Login. Já sou cliente”;
+	                 4- Preencher o campo e-mail com um e-mail válido;
+                     5- Clicar no botão “continuar”;
+                     6- Preencher o campo senha com uma senha válida;
+                     7- Clicar no botão “Fazer login”.
+
+Resultado esperado:  Acessar a home da Amazon.

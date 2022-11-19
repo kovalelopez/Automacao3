@@ -1,0 +1,9 @@
+CT02            Rastrear encomenda com código inválido.
+Pré condição:   Estar na página da Loggi.
+R.E:            Deve exibir uma mensagem de código inválido.
+Steps:
+                1: Clicar no botão "Quero rastrear um pacote";
+                2: Clicar no campo "Código de rastreamento inválido"(massa de dados);
+                3: Digitar o código de rastreio;
+                4: Clicar no botão "Acompanhar pedido".
+                5: Verificar mensagem de código invlálido.
